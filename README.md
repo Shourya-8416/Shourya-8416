@@ -34,10 +34,9 @@
 
 ## 🛠️ Skills
 
-| Languages | Frameworks & Tools | Databases | Cloud & DevOps |
-| :-------: | :-----------------: | :-------: | :-------------: |
-| Java | Spring Boot, Hibernate | MySQL, PostgreSQL | GitHub Actions |
-| SQL | Angular | MongoDB | Docker |
+| Languages     | Frameworks & Tools        | Databases           | Cloud & DevOps     |
+| :-----------: | :-----------------------: | :-----------------: | :----------------: |
+| Java, Python, HTML, CSS | Spring Boot, Hibernate, Angular | MySQL, PostgreSQL, MongoDB | AWS, Docker, GitHub Actions |
 
 ---
 
