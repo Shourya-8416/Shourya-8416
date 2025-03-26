@@ -1,22 +1,34 @@
-# 👋 Hi there, I’m Shourya!
+# 👋 Hi there, I’m **Shourya Mishra**!
 
 <p align="center">
   <a href="https://github.com/Shourya-8416">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Shourya-8416&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages"></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Shourya-8416&layout=compact&theme=radical&hide_border=true" alt="Top Languages"></a>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **PROJECT NAME**
-- 🌱 I’m currently learning **TECH/FRAMEWORK**
-- 👯 I’m looking to collaborate on **OPEN SOURCE PROJECTS**
-- 💬 Ask me about **YOUR EXPERTISE**
-- 📫 How to reach me: [Email](mailto:YOUR_EMAIL) | [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-- ⚡ Fun fact: **A fun fact about you**
+- 🔭 I’m currently working on learning **Java Full Stack**  
+- 🌱 I’m currently learning **Spring Boot, Hibernate, Angular**  
+- 👯 I’m looking to collaborate on beginner‑friendly **Java open source projects**  
+- 💬 Ask me about **Java**  
+- 📫 How to reach me: [Email](mailto:mshourya9456@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shaurya-mishra-b380711a5/)  
+- ⚡ Fun fact: I love solving algorithm puzzles!
+
+---
+
+## 🚀 Open Source Contributions
+
+| Project | Description | Good First Issues | Link |
+| :------ | :---------- | :---------------: | :--: |
+| **Spring Boot** | Popular Java framework | ✅ beginner issues | https://github.com/spring-projects/spring-boot |
+| **Apache Commons** | Reusable Java utilities | ✅ easy | https://github.com/apache/commons-lang |
+| **OpenMRS** | Healthcare EMR platform | ✅ first-timers | https://github.com/openmrs/openmrs-core |
+| **Jenkins** | Automation server | ✅ good-first-bug | https://github.com/jenkinsci/jenkins |
+| **Apache Kafka** | Distributed streaming | ✅ newbie issues | https://github.com/apache/kafka |
 
 ---
 
@@ -24,30 +36,18 @@
 
 | Languages | Frameworks & Tools | Databases | Cloud & DevOps |
 | :-------: | :-----------------: | :-------: | :-------------: |
-| JavaScript | React, Next.js | MongoDB | AWS, Docker |
-| Python | Node.js, Express | PostgreSQL | GitHub Actions |
-| HTML/CSS | Tailwind CSS | Redis | Kubernetes |
-
----
-
-## 🚀 Projects
-
-| Project | Description | Link |
-| :------ | :---------- | :--: |
-| **Project‑A** | Short project description | [🔗](https://github.com/YOUR_USERNAME/PROJECT-A) |
-| **Project‑B** | Short project description | [🔗](https://github.com/YOUR_USERNAME/PROJECT-B) |
-| **Project‑C** | Short project description | [🔗](https://github.com/YOUR_USERNAME/PROJECT-C) |
+| Java | Spring Boot, Hibernate | MySQL, PostgreSQL | GitHub Actions |
+| SQL | Angular | MongoDB | Docker |
 
 ---
 
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/shaurya-mishra-b380711a5/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mshourya9456@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Shourya-8416/count.svg)
