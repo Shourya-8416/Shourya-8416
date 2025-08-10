@@ -49,4 +49,4 @@
 
 ---
 
-![Hits](https://hits.sh/github.com/Shourya-8416.svg?style=flat-square)
+![Visitors](https://img.shields.io/badge/Visitors-12345-blue?style=for-the-badge&logo=github)
