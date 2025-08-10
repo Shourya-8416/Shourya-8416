@@ -49,4 +49,4 @@
 
 ---
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Shourya-8416&label=Profile%20Views&color=12&icon=5&pretty=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Shourya-8416&label=Visitors&color=ff69b4&style=for-the-badge)
