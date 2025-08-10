@@ -49,4 +49,4 @@
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/Shourya-8416/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=Shourya-8416&label=Profile%20views&color=0e75b6&style=flat)
