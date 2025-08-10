@@ -49,4 +49,4 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shourya-8416&label=Profile%20views&color=0e75b6&style=flat)
+![Hits](https://hits.sh/github.com/Shourya-8416.svg?style=flat-square)
