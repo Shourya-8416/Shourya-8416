@@ -49,4 +49,4 @@
 
 ---
 
-![Visitors](https://img.shields.io/badge/Visitors-12345-blue?style=for-the-badge&logo=github)
+![Visitor Count](https://visitcount.itsvg.in/api?id=Shourya-8416&label=Profile%20Views&color=12&icon=5&pretty=true)
