@@ -90,10 +90,11 @@
 </p>
 
 ### 📈 Stats & Streak  
-<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shourya-8416&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shourya-8416&theme=tokyonight&hide_border=true" height="180"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shourya-8416&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Shourya-8416&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
 
 
 ---
