@@ -67,8 +67,6 @@
 </p>
 
 
-*(LangChain4j & embeddings don't have official icons, so GitHub icon is used as placeholder.)*
-
 ### 🗄️ Databases  
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
