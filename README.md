@@ -94,23 +94,6 @@
 
 
 
-
----
-
-# 🎞️ Fun Visuals
-
-### 🔥 Developer Vibe  
-<p align="center">
-  <img src="https://i.gifer.com/origin/7e/7efb28947b4324c596cb8da22791c6c9_w200.gif" width="350" />
-</p>
-
-### 🎮 Coding Mood  
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
-</p>
-
----
-
 # 📅 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shourya-8416&theme=react-dark&hide_border=true" />
