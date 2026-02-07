@@ -87,10 +87,12 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shourya-8416&theme=radical" />
 </p>
 
-### 📈 Stats & Streak  
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shourya-8416&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+---
+📊 GitHub Stats:
+
+![](https://nirzak-streak-stats.vercel.app/?user=akashrai2003&theme=default&hide_border=false)<br/>
+
+---
 
 
 
