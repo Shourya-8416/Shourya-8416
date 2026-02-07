@@ -87,13 +87,20 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shourya-8416&theme=radical" />
 </p>
 
+### 📈 Stats & Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shourya-8416&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+
+
+# 📅 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shourya-8416&theme=react-dark&hide_border=true" />
+</p>
+
+
 ---
-📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=akashrai2003&theme=default&hide_border=false)<br/>
-
----
-
 
 ## 📫 Contact Me
 
