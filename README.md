@@ -95,15 +95,6 @@
 ---
 
 
-
-# 📅 Contribution Graph  
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shourya-8416&theme=react-dark&hide_border=true" />
-</p>
-
-
----
-
 ## 📫 Contact Me
 
 <p align="center">
